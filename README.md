@@ -1,4 +1,34 @@
-## Hi there 👋
+# Sameeksha Kumar
+
+### Data Analytics & AI Practitioner
+
+*BBA (Data Science & AI) Student | Hyderabad, India*
+
+---
+## About
+
+Focused on Data Analytics, Artificial Intelligence, and Business Intelligence. I enjoy building data-driven solutions and leveraging AI tools to create practical digital products.
+
+---
+## Skills
+
+**Python • Power BI • Excel • HTML**
+---
+
+## Interests
+**Data Analytics • AI Applications • Business Intelligence • AI-Assisted Development**
+
+---
+
+## Experience
+* IBM Hackathon Participant, Auro University, Surat
+
+---
+
+## Connect
+LinkedIn: [Add LinkedIn URL]
+
+Portfolio: [Add Portfolio URL]
 
 <!--
 **http-samee/http-samee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
