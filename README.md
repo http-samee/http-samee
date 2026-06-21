@@ -23,10 +23,6 @@ Focused on Data Analytics, Artificial Intelligence, and Business Intelligence. I
 ## Experience
 * IBM Hackathon Participant, Auro University, Surat
 
----
-
-Portfolio: (https://sameeksha-kumar-portfolio.web.app/)
-
 <!--
 **http-samee/http-samee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
