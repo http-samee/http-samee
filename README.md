@@ -25,10 +25,7 @@ Focused on Data Analytics, Artificial Intelligence, and Business Intelligence. I
 
 ---
 
-## Connect
-LinkedIn: [Add LinkedIn URL]
-
-Portfolio: [Add Portfolio URL]
+Portfolio: (https://sameeksha-kumar-portfolio.web.app/)
 
 <!--
 **http-samee/http-samee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
